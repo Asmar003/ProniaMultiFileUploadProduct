@@ -1,4 +1,16 @@
-﻿<!-- Begin Slider Area -->
+﻿@{
+    ViewData["Title"] = "Index";
+}
+@section scripts{
+    <script>
+        let btn=document.querySelector("#loadMore");
+        btn.addEventListener("click",function({
+            fetch(this.href)
+        }))
+    </script>
+}
+
+<!-- Begin Slider Area -->
       <div class="slider-area">
         <!-- Main Slider -->
         <div class="swiper-container main-slider swiper-arrow with-bg_white">
@@ -2196,6 +2208,9 @@
                     </div>
                   </div>
                 </div>
+              </div>
+              <div class="text-center">
+                  <a asp-action="LoadMore" class="btn btn-outline-success" id="loadMore">Load more</a>
               </div>
             </div>
           </div>

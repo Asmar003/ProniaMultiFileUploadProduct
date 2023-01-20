@@ -1,8 +1,4 @@
 ﻿using E_commerce.Models.Base;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using ProniaAB101.Models.Base;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace E_commerce.Models
 {

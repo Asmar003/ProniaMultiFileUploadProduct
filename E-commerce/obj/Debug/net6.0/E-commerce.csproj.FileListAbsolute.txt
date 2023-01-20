@@ -620,3 +620,14 @@ C:\Users\asmar\OneDrive\İş masası\Yeni klasör\E-commerce\obj\Debug\net6.0\E-
 C:\Users\asmar\OneDrive\İş masası\Yeni klasör\E-commerce\obj\Debug\net6.0\E-commerce.dll
 C:\Users\asmar\OneDrive\İş masası\Yeni klasör\E-commerce\obj\Debug\net6.0\refint\E-commerce.dll
 C:\Users\asmar\OneDrive\İş masası\Yeni klasör\E-commerce\obj\Debug\net6.0\E-commerce.pdb
+C:\Users\asmar\OneDrive\İş masası\Yeni klasör (3)\E-commerce\obj\Debug\net6.0\E-commerce.csproj.AssemblyReference.cache
+C:\Users\asmar\OneDrive\İş masası\Yeni klasör (3)\E-commerce\obj\Debug\net6.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmar\OneDrive\İş masası\Yeni klasör (3)\E-commerce\obj\Debug\net6.0\E-commerce.AssemblyInfoInputs.cache
+C:\Users\asmar\OneDrive\İş masası\Yeni klasör (3)\E-commerce\obj\Debug\net6.0\E-commerce.AssemblyInfo.cs
+C:\Users\asmar\OneDrive\İş masası\Yeni klasör (3)\E-commerce\obj\Debug\net6.0\E-commerce.csproj.CoreCompileInputs.cache
+C:\Users\asmar\OneDrive\İş masası\Yeni klasör (3)\E-commerce\obj\Debug\net6.0\E-commerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asmar\OneDrive\İş masası\Yeni klasör (3)\E-commerce\obj\Debug\net6.0\E-commerce.RazorAssemblyInfo.cache
+C:\Users\asmar\OneDrive\İş masası\Yeni klasör (3)\E-commerce\obj\Debug\net6.0\E-commerce.RazorAssemblyInfo.cs
+C:\Users\asmar\OneDrive\İş masası\Yeni klasör (3)\E-commerce\obj\Debug\net6.0\E-commerce.dll
+C:\Users\asmar\OneDrive\İş masası\Yeni klasör (3)\E-commerce\obj\Debug\net6.0\refint\E-commerce.dll
+C:\Users\asmar\OneDrive\İş masası\Yeni klasör (3)\E-commerce\obj\Debug\net6.0\E-commerce.pdb

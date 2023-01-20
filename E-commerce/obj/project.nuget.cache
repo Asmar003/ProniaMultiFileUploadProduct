@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1tOO3F+1bgcnuieG5UOUml+hItb9OzQgyYi2DrR8E5aGO6FYlsakjDuAk4eQDLxUrtelUvIQu6XRVHx5KXdFoQ==",
+  "dgSpecHash": "OLrtPHQCxJibfRAixO5W8mxKHkAY60bmdtn7t+ciyXGH8q1qK8gbcpEBnuXWzj3gxj+mso14uwtBUvXljcnrzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asmar\\OneDrive\\İş masası\\Yeni klasör\\E-commerce\\E-commerce.csproj",
+  "projectFilePath": "C:\\Users\\asmar\\OneDrive\\İş masası\\Yeni klasör (3)\\E-commerce\\E-commerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asmar\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\asmar\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
