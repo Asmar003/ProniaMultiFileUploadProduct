@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-using E_commerce.DAL;
-using E_commerce.Models;
+﻿using E_commerce.DAL;
 using Microsoft.AspNetCore.Mvc;
 
 namespace E_commerce.Controllers
